@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>开元棋牌招商合作</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Microsoft YaHei', sans-serif; }
+    body { background: #f4f4f4; color: #333; line-height: 1.8; }
+    header { background: #1a73e8; color: white; padding: 40px 20px; text-align: center; }
+    header h1 { font-size: 32px; margin-bottom: 10px; }
+    header p { font-size: 18px; }
+    section { padding: 30px 20px; max-width: 960px; margin: auto; }
+    .card { background: white; margin-bottom: 20px; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+    .card h2 { color: #1a73e8; margin-bottom: 10px; }
+    .card p, .card ul { font-size: 16px; }
+    ul { padding-left: 20px; }
+    footer { background: #333; color: #fff; text-align: center; padding: 20px 10px; font-size: 14px; }
+    a { color: #e91e63; text-decoration: none; }
+    @media (max-width: 600px) {
+      header h1 { font-size: 26px; }
+      .card h2 { font-size: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🏆 开元棋牌｜官方直营 信誉盘口</h1>
+    <p>信誉集团 · 流量变现 · 高额奖励</p>
+  </header>
+
+  <section>
+    <div class="card">
+      <h2>💰 结算方式</h2>
+      <p>支持定期结算，多种方式任选，量大支持提前结款！灵活结算，诚意合作！</p>
+    </div>
+
+    <div class="card">
+      <h2>🤝 合作模式</h2>
+      <p>CPS合营模式｜70%高分成 + 人头奖最高8W<br>行业最优待遇，月末清零，拒绝自负盈亏！</p>
+    </div>
+
+    <div class="card">
+      <h2>📊 专业支持</h2>
+      <ul>
+        <li>提供独立后台实时查看数据</li>
+        <li>绝无扣量，欢迎随时测试</li>
+        <li>可提供：广告页源码 / OP渠道后台 / OP专属包</li>
+        <li>渠道写死，确保数据真实有效</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>📢 招募对象</h2>
+      <p>Seo｜网站站长｜劫持｜技术跳转类｜技术人才或团队｜主播博主｜执行力强者<br>只要你有流量，就能变现！</p>
+    </div>
+
+    <div class="card">
+      <h2>📝 信誉保障</h2>
+      <p>🧾 信誉集团，放心测试！</p>
+    </div>
+
+    <div class="card">
+      <h2>📬 联系方式</h2>
+      <ul>
+        <li>Telegram 私聊：<a href="https://t.me/m/0RMoUK3jNTk1" target="_blank">点击联系</a></li>
+        <li>Telegram 频道：<a href="https://t.me/+zJeN-j9jxZU1MzEx" target="_blank">点击进入</a></li>
+        <li>Telegram 技术社区：<a href="https://t.me/+lNZhQg8FqboyYjdl" target="_blank">点击加入</a></li>
+        <li>QQ：1399951306</li>
+        <li>微信：（请备注来路）</li>
+      </ul>
+      <p>✅ 添加我请告诉我从哪里看到的合作广告，谢谢配合！</p>
+      <p>⚠️ 如QQ长期无法添加，可能受限于QQ规则，建议优先通过Telegram联系，感谢支持！</p>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 开元棋牌官方招商 | 所有合作保密 | 禁止未成年人接触
+  </footer>
+</body>
+</html>
