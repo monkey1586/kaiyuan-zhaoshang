@@ -65,29 +65,6 @@
   </span>
   <small>（点击自动复制）</small>
 <script>
-  function copyToClipboard(text) {
-    if (navigator.clipboard) {
-      navigator.clipboard.writeText(text).then(function () {
-        alert('已复制：' + text);
-      }, function () {
-        alert('复制失败，请手动复制');
-      });
-    } else {
-      // 兼容旧浏览器
-      const textarea = document.createElement("textarea");
-      textarea.value = text;
-      document.body.appendChild(textarea);
-      textarea.select();
-      try {
-        document.execCommand('copy');
-        alert('已复制：' + text);
-      } catch (err) {
-        alert('复制失败，请手动复制');
-      }
-      document.body.removeChild(textarea);
-    }
-  }
-</script>
       <p>✅ 添加我请告诉我从哪里看到的合作广告，谢谢配合！</p>
       <p>⚠️ 如QQ长期无法添加，可能受限于QQ规则，建议优先通过Telegram联系，感谢支持！</p>
     </div>
